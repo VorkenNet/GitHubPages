@@ -1,0 +1,10 @@
+site_name: Il Mio Avamposto Wiki
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+nav:
+  - Home: index.md
+  - Security Cloud:
+    - Hardening AWS: Sicurezza/aws.md
