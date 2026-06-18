@@ -8,3 +8,8 @@ nav:
   - Home: index.md
   - Security Cloud:
     - Hardening AWS: Sicurezza/aws.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
