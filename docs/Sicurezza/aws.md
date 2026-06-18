@@ -7,3 +7,5 @@ Appunti personali sulla gestione delle policy IAM e segregazione degli account.
 
 ??? tip "Analisi Storage S3"
     Puoi espandere questo blocco collassabile per approfondire l'uso di AWS RAM o l'analisi dei bucket.
+
+    Prova modifica DRAFT
